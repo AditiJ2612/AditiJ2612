@@ -1,24 +1,113 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<h1 align="center">Aditi Jajoo</h1>
+<h3 align="center">Software Engineer · Full Stack — React / TypeScript · Java · Go · Python</h3>
 
-<h1 align="center">Hi 👋, I'm Aditi Jajoo</h1>
-<h3 align="center">A Cloud Tech & Web Development Enthusiast, Driven to Build Scalable Web Solutions</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
-
-- 👩About me: **Versatile and ambitious tech enthusiast with a Master's in Information Systems, I am proficient in Python, Java, React, AWS, and other key technologies, with a solid background in web development and cloud computing. Experienced in Agile Project Management, CI/CD pipelines, and database management. Eager to apply these skills to contribute to company growth while seeking new avenues for learning and professional development.**
-
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
-
-- 🔭 I’m currently working on **Full Stack Food Delivery Website which involves working with React, Spring Boot, Redux and Stripe Payment**
-
-- 💬 Ask me about **React, NodeJs, Javascript**
-
-- 📫 How to reach me **aditijajoo2612@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aditi jajoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditi jajoo" height="30" width="40" /></a>
+<p align="center">
+  📍 New York, NY · Open to relocation &nbsp;|&nbsp;
+  <a href="https://aditij2612.github.io/">Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/aditi-jajoo-6667331bb">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="mailto:aditijajoo2612@gmail.com">aditijajoo2612@gmail.com</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+### 👩‍💻 About me
+
+Full-stack software engineer with 2+ years of experience building internal platforms and web applications at **Uber** and **Nestingale**. I work across the stack — React/TypeScript frontends backed by Java, Go, and Node.js services, REST APIs, and SQL databases — and I build with LLMs: at Uber I engineered the prompt workflows behind an internal AI agent that automated Jira ticket creation. I care about design docs before code, measuring what ships, and tools that make other engineers faster.
+
+- 🔭 Most recently: **Software Engineer I at Uber** (New York) — internal developer & operations platforms
+- 🌱 Currently deepening: **LLM engineering** — LangChain, LangGraph, prompt workflows (The AI Engineer Course)
+- 🤖 AI coding tools I use daily: **Claude Code, Cursor, Codex**
+- 💬 Ask me about **React, TypeScript, Java, API design, and internal tools**
+
+---
+
+### 📈 Impact at a glance
+
+| Project | Result | Scale |
+| --- | --- | --- |
+| Downtiming workflow redesign (Uber) | **−40%** time-to-downtime | 8,000+ daily users |
+| Alert catalog page (Uber) | **−30%** alert-debugging time | 50+ alert owners |
+| AI-agent ticket automation (Uber) | Ticket creation **~10 min → under 1 min** | Per alert, on-call workflow |
+| Recommendation system (Nestingale) | **+40%** system efficiency | Customer-facing website |
+
+---
+
+### 💼 Experience
+
+**Uber Technologies Inc. — Software Engineer I** · New York, NY · *Mar 2025 – Sep 2026*
+
+- Led the end-to-end redesign of Uber's **"Downtiming"** workflow in React and TypeScript, used daily by 8,000+ employees — authored the ERD, built configurable tags and multiple downtime modes, and cut average time-to-downtime by **40%**
+- Built a **catalog page** surfacing thresholds, ownership, SNR trends, and firing history for 50+ alert owners via live-graph queries; partnered with backend engineers on Go API changes, cutting alert-debugging time by **30%**
+- Engineered **prompt workflows for Uber's internal AI agent** to auto-generate Jira tickets from alert templates, cutting ticket creation from ~10 minutes to under 1 minute per alert
+- Migrated and re-architected **2 full-page surfaces** serving 100+ internal users in a company-wide initiative, finishing **2 weeks ahead** of the team's migration timeline
+- Spotted an error in how the platform displayed another team's endpoint and fixed it unprompted — refactored the old, confusing frontend code, resolving the API display error and making that endpoint easy to extend
+
+**Nestingale — Software Engineering Intern** · San Jose, CA · *May 2024 – Mar 2025*
+
+- Designed and implemented scalable backend services in **Java and Spring Boot on AWS**, improving system scalability, performance, and reliability
+- Increased recommendation-system efficiency by **40%** through data preprocessing and data grouping, delivering personalized suggestions that improved user engagement and retention
+- Built TypeScript proofs of concept and feasibility analyses for new features' technical and UI approaches
+- Prototyped automation of a manual Excel process by fine-tuning an ML model with OpenAI to group similar items and generate unique codes
+
+---
+
+### 🛠️ Tech stack
+
+**Languages:** Java · Python · TypeScript · JavaScript · Go · SQL · HTML · CSS
+
+![Languages](https://skillicons.dev/icons?i=java,python,ts,js,go,html,css)
+
+**Frontend:** React · Redux · Base Web · MUI · Tailwind CSS
+
+![Frontend](https://skillicons.dev/icons?i=react,redux,tailwind)
+
+**Backend & APIs:** Spring Boot · Node.js · Express · Microservices (Spring Cloud, Netflix Eureka, Resilience4j) · RESTful APIs · GraphQL · JSON · SOAP
+
+![Backend](https://skillicons.dev/icons?i=spring,nodejs,express,graphql,postman)
+
+**Databases:** PostgreSQL · MySQL · MongoDB · Redis
+
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)
+
+**Cloud & DevOps:** AWS (EC2, S3, Lambda, CloudWatch) · GCP · Docker · Docker Compose · CI/CD (GitHub Actions) · Terraform · Pulumi
+
+![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,terraform)
+
+**AI & AI Tools:** LLMs · Prompt Engineering · LangChain · LangGraph · Claude Code · Cursor · Codex · GitHub Copilot
+
+**Testing & Practices:** Jest · Zipkin distributed tracing · Git · GitHub · Jira · OOP · Agile (Scrum) · SDLC · Figma
+
+![Tools](https://skillicons.dev/icons?i=git,github,jest,figma)
+
+---
+
+### 🚀 Projects
+
+**MovieHub** — *Java, React, MongoDB, Docker, Spring Cloud, Redis*
+Cinema-ticketing platform built as Spring Cloud microservices (movie, user, and email services) with Netflix Eureka service discovery, WebClient inter-service communication, and Resilience4j fault tolerance. Containerized with Docker Compose; movie data cached in Redis; secured with Spring Security, JWT authentication, and role-based access control.
+
+**Webapp API** — *Node.js, PostgreSQL, GitHub Actions, CI/CD, Packer, AWS*
+Backend CRUD APIs with Node.js and PostgreSQL on a cloud-native Debian stack, with CI/CD pipelines in GitHub Actions that reduced manual testing effort by 30–40%. Provisioned AWS infrastructure with Packer and Pulumi — optimized network traffic by 33%, enabled load balancing and flexible scaling, and added SSL certificates and CloudWatch monitoring.
+
+**Food Delivery Platform** — *React, Redux, Spring Boot, MongoDB, Stripe*
+Multi-vendor food delivery app built end to end: React/Redux frontend styled with MUI and Tailwind CSS, Spring Boot REST API, JWT authentication with role-based access control, and Stripe payments.
+
+---
+
+### 🎓 Education
+
+- **Northeastern University** — Master of Science in Information Systems · Boston, MA · *2022 – 2024*
+- **SIES Graduate School of Technology** — Bachelor of Engineering in Electronics and Telecommunication · Mumbai, India · *2018 – 2022*
+- **The AI Engineer Course** (Professional Development) — LLMs, LangChain, LangGraph, NLP · *2025 – Present*
+
+---
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aditi-jajoo-6667331bb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://aditij2612.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=githubpages" alt="Portfolio" /></a>
+  <a href="mailto:aditijajoo2612@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-aditijajoo2612@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+</p>
+
+*Most of my professional work lives in private codebases — I'm happy to walk through any of it in detail.*
